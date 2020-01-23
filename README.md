@@ -2,7 +2,7 @@
 
 あいうえお
 
-GitHub Pages について - GitHub ヘルプ
+GitHub Pages について - GitHub ヘルプ[nl]
 https://help.github.com/ja/github/working-with-github-pages/about-github-pages
 
 GitHub Pages サイトを作成する - GitHub ヘルプ
