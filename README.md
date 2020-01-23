@@ -23,3 +23,6 @@ GitHub Pages サイトを作成する - GitHub ヘルプ
 
 Markdown記法 チートシート  
 [https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+
+GitHub Pages themes
+[https://github.com/pages-themes](https://github.com/pages-themes)
