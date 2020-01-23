@@ -1,5 +1,3 @@
-# 200123.github.io
-
 あいうえお
 
 GitHub Pages について - GitHub ヘルプ  
